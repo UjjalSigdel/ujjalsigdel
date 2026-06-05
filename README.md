@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ujjal Sigdel 👋</h1>
+<p align="center">
+  Building reliable software, learning continuously, and creating meaningful digital experiences.
+</p>
 
-<!--
-**UjjalSigdel/ujjalsigdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- Passionate developer focused on writing clean, maintainable, and scalable code.
+- Interested in modern web technologies, backend systems, and practical problem-solving.
+- Always improving through hands-on projects, collaboration, and continuous learning.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On
+- Building and refining projects that demonstrate real-world engineering practices.
+- Expanding skills in system design, testing, and performance optimization.
+- Contributing to open-source and community-driven initiatives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Focus
+`JavaScript` `TypeScript` `Node.js` `React` `Python` `Git` `REST APIs`
+
+## 🤝 Let’s Connect
+- GitHub: [@UjjalSigdel](https://github.com/UjjalSigdel)
+- LinkedIn: *(add your profile link here)*
+- Email: *(add your professional email here)*
+
+---
+<p align="center"><i>“Consistency, curiosity, and craftsmanship drive great software.”</i></p>
