@@ -18,7 +18,7 @@
 
 ## 🤝 Let’s Connect
 - GitHub: [@UjjalSigdel](https://github.com/UjjalSigdel)
-- Open to collaboration via GitHub: [Message me here](https://github.com/UjjalSigdel)
+- Open to collaboration: [Start a conversation via Issues](https://github.com/UjjalSigdel/ujjalsigdel/issues/new)
 
 ---
 <p align="center"><i>“Consistency, curiosity, and craftsmanship drive great software.”</i></p>
