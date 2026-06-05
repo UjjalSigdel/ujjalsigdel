@@ -18,8 +18,7 @@
 
 ## 🤝 Let’s Connect
 - GitHub: [@UjjalSigdel](https://github.com/UjjalSigdel)
-- LinkedIn: *(add your profile link here)*
-- Email: *(add your professional email here)*
+- Open to collaboration via GitHub: [Message me here](https://github.com/UjjalSigdel)
 
 ---
 <p align="center"><i>“Consistency, curiosity, and craftsmanship drive great software.”</i></p>
